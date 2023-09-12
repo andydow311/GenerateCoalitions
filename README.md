@@ -1,4 +1,4 @@
-# GenerateSetofAgents
+# GenerateCoalitions
 
 I am learning Golang and rereating a number of game theory problems to help me. 
 
